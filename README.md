@@ -9,7 +9,8 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 3** | Multiplication Table | For loops, nested logic |
 | **Day 4** | Mini RPG Boss Fight | Conditional statements (`if/elif/else`), random logic |
 | **Day 5** | Inventory System | Python Lists, `.append()`, `len()`, iterating over lists |
-
+| **Day 6** | AI Agent Profile | Python Dictionaries, key-value pairs, `.get()` method |
+| **Day 7** | AI Agent Task Executor | Functions (`def`), parameters, default values, `return` statement |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
