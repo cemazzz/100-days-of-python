@@ -17,6 +17,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 11** | AI Agent Memory Search | Linear Search, `for` loops, `if` conditions, Dictionary iteration, Counter logic |
 | **Day 12** | AI Agent Memory Updater | Data updating, Dictionary mutation, `return`, `for` loops, Clean list formatting |
 | **Day 13** | AI Agent Context Filtering | Data extraction, List `.append()`, Filtering logic, Formatting output |
+| **Day 14** | AI Agent Memory Statistics | Math operations, Data summary, Percentage calculation, Output formatting |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
