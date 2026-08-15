@@ -19,6 +19,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 13** | AI Agent Context Filtering | Data extraction, List `.append()`, Filtering logic, Formatting output |
 | **Day 14** | AI Agent Memory Statistics | Math operations, Data summary, Percentage calculation, Output formatting |
 | **Day 15** | AI Agent Memory Ingestion | Duplicate prevention, List `.append()`, Default parameters, Complete Memory CRUD |
+| **Day 16** | AI Agent Persistent Memory | JSON file handling, `json.dump()`, File I/O (`with open`), Memory persistence |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
