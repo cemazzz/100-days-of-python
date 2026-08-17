@@ -2,11 +2,11 @@
     {
         "agent": "cemazzz",
         "task": "write python",
-        "status": "SUCCESS"
+        "status": "SUCCESS ✅"
     },
     {
         "agent": "cemazz",
         "task": "play game",
-        "status": "FAILED"
+        "status": "FAILED ❌"
     }
 ]

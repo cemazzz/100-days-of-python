@@ -21,6 +21,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 15** | AI Agent Memory Ingestion | Duplicate prevention, List `.append()`, Default parameters, Complete Memory CRUD |
 | **Day 16** | AI Agent Persistent Memory | JSON file handling, `json.dump()`, File I/O (`with open`), Memory persistence |
 | **Day 17** | AI Agent Task Filter & Report | `List Comprehension`, filtering data, refactoring `for` loops |
+| **Day 18** | Interactive AI Agent CLI | Interactive loop (`while True`), CLI menu, auto file sync, complete system integration |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
