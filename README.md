@@ -23,6 +23,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 17** | AI Agent Task Filter & Report | `List Comprehension`, filtering data, refactoring `for` loops |
 | **Day 18** | Interactive AI Agent CLI | Interactive loop (`while True`), CLI menu, auto file sync, complete system integration |
 | **Day 19** | OOP Agent Memory | Refactor memory system into `AgentMemory` class with encapsulation |
+| **Day 20** | OOP Basics (Class & Object) | Defined classes, `__init__` constructor, `self` usage, object instantiation |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
