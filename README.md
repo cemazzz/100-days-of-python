@@ -25,6 +25,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 19** | OOP Agent Memory | Refactor memory system into `AgentMemory` class with encapsulation |
 | **Day 20** | OOP Basics (Class & Object) | Defined classes, `__init__` constructor, `self` usage, object instantiation |
 | **Day 21** | OOP Methods | Instance methods, modifying internal state (`self.battery`), object behaviors (`use_battery`, `charge`) |
+| **Day 22** | Travel Day | Rest & recovery |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
