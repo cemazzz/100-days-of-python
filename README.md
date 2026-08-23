@@ -1,5 +1,5 @@
-# 🐍 100 Days of Python & AI Roadmap
-Welcome to my Python learning journey! This repository contains my daily coding projects, logic challenges, and foundational work as I build towards becoming an **AI Engineer**.
+# 🐍 100 Days of Python
+Welcome to my Python learning journey! This repository contains my daily coding projects, automation scripts, and practical tools as I build towards creating AI Micro-SaaS and real-world products.
 ## 🚀 Completed Projects
 
 | Day | Project Name | Key Concepts Learned |
@@ -26,7 +26,8 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 20** | OOP Basics (Class & Object) | Defined classes, `__init__` constructor, `self` usage, object instantiation |
 | **Day 21** | OOP Methods | Instance methods, modifying internal state (`self.battery`), object behaviors (`use_battery`, `charge`) |
 | **Day 22** | Travel Day | Rest & recovery |
-| **Day 23** | `OOP Inheritance` | Basic class inheritance syntax, code reuse between parent and child classes |
+| **Day 23** | `OOP Inhegit add .ritance` | Basic class inheritance syntax, code reuse between parent and child classes |
+| **Day 24** | `OOP Inheritance & super()` | Using `super()` constructor, adding child attributes, extending methods |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
