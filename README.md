@@ -28,6 +28,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 22** | Travel Day | Rest & recovery |
 | **Day 23** | `OOP Inhegit add .ritance` | Basic class inheritance syntax, code reuse between parent and child classes |
 | **Day 24** | `OOP Inheritance & super()` | Using `super()` constructor, adding child attributes, extending methods |
+| **Day 25** | `OOP Finale` | Encapsulation with private variables (`__`), Polymorphism in Python classes |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
