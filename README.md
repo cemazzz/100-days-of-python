@@ -30,6 +30,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 24** | `OOP Inheritance & super()` | Using `super()` constructor, adding child attributes, extending methods |
 | **Day 25** | `OOP Finale` | Encapsulation with private variables (`__`), Polymorphism in Python classes |
 | **Day 26** | `HTTP Requests & API Basics` | Sending GET requests with `requests`, status code handling, parsing JSON responses |
+| **Day 27** | `Web Scraping Basics` | HTML parsing with BeautifulSoup, `find()`, `find_all()`, text extraction |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
