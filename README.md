@@ -32,6 +32,7 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 26** | `HTTP Requests & API Basics` | Sending GET requests with `requests`, status code handling, parsing JSON responses |
 | **Day 27** | `Web Scraping Basics` | HTML parsing with BeautifulSoup, `find()`, `find_all()`, text extraction |
 | **Day 28** | `Exporting Scraped Data` | Saving scraped data into JSON files, structuring data output for clients |
+| **Day 29** | `Data Export with Pandas` | Converting JSON to Pandas DataFrame, exporting clean CSV for clients |
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
