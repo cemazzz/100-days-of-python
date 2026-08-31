@@ -35,6 +35,11 @@ Welcome to my Python learning journey! This repository contains my daily coding 
 | **Day 29** | `Data Export with Pandas` | Converting JSON to Pandas DataFrame, exporting clean CSV for clients |
 | **Day 30** | `Multi-page Scraping` | Pagination handling with dynamic URLs, looping requests, aggregating large datasets |
 | **Day 31** | `Bypassing Basic Anti-Bot` | Spoofing User-Agent & Custom Headers in `requests` |
+---
+
+## ⏸️ Project Status: Paused & Pivoting
+
+> **Notice:** Daily progress is currently paused. The structured daily framework is being evaluated and replaced with a more effective, project-driven learning strategy.
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3
 - **IDE:** Visual Studio Code
